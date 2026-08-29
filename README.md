@@ -1,154 +1,178 @@
-
 # Hi, I'm Sujit Kumar Munda 👋
 
-### M.Tech in Robotics & Artificial Intelligence @ IIT Guwahati
+### M.Tech. Robotics & Artificial Intelligence @ IIT Guwahati
+### Computer Science Engineer | AI/ML | Software Engineering | Data Science
 
-I'm a Computer Science graduate currently pursuing an **M.Tech in Robotics and Artificial Intelligence at IIT Guwahati**, with interests spanning **Software Engineering, Machine Learning, Artificial Intelligence, and Data Science**.
+I build intelligent, data-driven and production-oriented software systems
+at the intersection of **Artificial Intelligence, Robotics, Machine Learning
+and Software Engineering**.
 
-I enjoy building practical, data-driven and software-oriented solutions while strengthening my foundations in programming, algorithms, machine learning, and problem solving.
-
----
-
-## 🎓 Education
-
-* **M.Tech. — Robotics and Artificial Intelligence**
-  Indian Institute of Technology, Guwahati
-  2025 – Present | CGPA: 7.14 (Current)
-
-* **B.Tech. — Computer Science and Engineering**
-  DAV Institute of Engineering and Technology, Palamu
-  2019 – 2022 | CGPA: 8.75
+Currently pursuing **M.Tech. in Robotics and Artificial Intelligence at
+IIT Guwahati**, with a B.Tech. background in Computer Science and Engineering.
 
 ---
 
-## 💻 Technical Skills
+## 🚀 About Me
+
+- 🎓 M.Tech. in Robotics & Artificial Intelligence — **IIT Guwahati**
+- 💻 B.Tech. in Computer Science & Engineering — **8.75 CGPA**
+- 🤖 Interested in **Robotics, AI/ML, Computer Vision and Intelligent Systems**
+- 📊 Interested in **Data Science, Financial Analytics and Time-Series ML**
+- ⚙️ Interested in **Backend Engineering, Distributed Systems and Real-Time Applications**
+- 🧠 Strong interest in **Machine Learning + Software Engineering**
+- 🔬 Focused on building projects with real datasets, validation and deployable architectures
+
+---
+
+# 🛠️ Technical Skills
 
 ### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-`Python` `C` `C++` `Java` `PHP`
+### AI / Machine Learning
+- Machine Learning
+- Time-Series Modeling
+- Anomaly Detection
+- Predictive Maintenance
+- Feature Engineering
+- Explainable AI
+- NLP
+- Model Evaluation
+- Walk-Forward Validation
+- XGBoost
+- Random Forest
+- Scikit-learn
+- SHAP
 
-### Machine Learning & AI
+### Data Science
+- Python
+- Pandas
+- NumPy
+- Statistical Analysis
+- Exploratory Data Analysis
+- Financial Analytics
+- Data Visualization
+- Predictive Modeling
+- Time-Series Analysis
 
-`Machine Learning` `Data Analysis` `Financial Time-Series Analysis` `OpenCV`
+### Backend / Software Engineering
+- Java
+- Spring Boot
+- Python
+- FastAPI
+- REST APIs
+- WebSocket
+- JWT Authentication
+- SQLAlchemy
+- PostgreSQL
+- MySQL
+- Redis
 
-### Data & Scientific Computing
+### Frontend
+- Next.js
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML
+- CSS
+- Recharts
 
-`Pandas` `NumPy` `SQL`
-
-### Web Development
-
-`HTML` `CSS` `JavaScript` `PHP` `Bootstrap`
-
-### Databases
-
-`MySQL` `Oracle`
-
-### Tools & Platforms
-
-`Git` `GitHub` `VS Code` `Jupyter Notebook` `Linux`
-
----
-
-## 🚀 Featured Projects
-
-### 📈 ML-Based Intraday Trading Strategy
-
-An AI/ML-based intraday trading strategy using **15-minute candlestick market data**.
-
-**Focus areas:**
-
-* Data preprocessing
-* Feature engineering
-* Technical indicators
-* Machine learning
-* Walk-forward validation
-* Backtesting
-* Financial time-series analysis
-
-**Tech:** Python · Pandas · NumPy · Machine Learning
-
----
-
-### 🏫 TechSoft Academy Management System
-
-A web-based admission and institute management system developed for a computer training institute.
-
-**Features:**
-
-* Student registration
-* Authentication
-* Course management
-* Admin dashboard
-* MySQL database integration
-* Responsive web interface
-
-**Tech:** HTML · CSS · JavaScript · PHP · MySQL
-
----
-
-### 🛒 E-Commerce Web Application
-
-A responsive e-commerce web application with product listing, shopping cart, user authentication, order management, and database integration.
-
-**Tech:** HTML · CSS · JavaScript · PHP · MySQL
+### DevOps / Tools
+- Docker
+- Docker Compose
+- Git
+- GitHub
+- CI/CD
+- MLflow
+- Jupyter Notebook
+- Linux
 
 ---
 
-## 👨‍🏫 Experience
+# ⭐ Featured Projects
 
-I've worked as a **Technical Trainer**, delivering practical training and mentoring students in:
+## 🤖 Robot Health Intelligence & Predictive Maintenance
 
-* Python
-* C / C++
-* Java
-* Data Structures
-* DBMS
-* HTML / CSS
-* Programming fundamentals
-* Debugging and project development
+An end-to-end AI/ML platform for monitoring industrial robot health,
+detecting anomalies and predicting equipment failures.
 
-I enjoy explaining technical concepts and helping others develop strong programming and problem-solving fundamentals.
+### Highlights
 
----
+- 6-DOF physics-informed robot telemetry simulator
+- 10,000 AI4I industrial predictive-maintenance records
+- 117 temporal and physics-based features
+- Chronological 70/15/15 train/validation/test split
+- 4-fold walk-forward validation
+- Isolation Forest + statistical anomaly detection
+- XGBoost failure prediction
+- SHAP explainability
+- Deterministic 0–100 robot health score
+- Prescriptive maintenance recommendations
+- FastAPI + WebSocket backend
+- Next.js real-time dashboard
+- PostgreSQL + Redis
+- MLflow experiment tracking
 
-## 📚 Relevant Coursework
+### Model Performance
 
-* Data Structures & Algorithms
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* Artificial Intelligence
-* Machine Learning Fundamentals
-* Fundamentals of Robotics
-* Internet of Things (IoT)
+| Model | PR-AUC | ROC-AUC | F1 | Recall |
+|---|---:|---:|---:|---:|
+| Logistic Regression | 0.3316 | 0.7456 | 0.3360 | 60.57% |
+| Random Forest | 0.6623 | 0.9469 | 0.5825 | 51.43% |
+| **XGBoost** | **0.6989** | **0.9511** | **0.7017** | **84.00%** |
 
----
-
-## 🔭 Current Focus
-
-I'm currently focusing on:
-
-* Machine Learning & Artificial Intelligence
-* Data Science & Time-Series Analysis
-* Computer Vision
-* Robotics
-* Software Engineering
-* Building practical end-to-end projects
+**Verification:** 36/36 automated tests passing  
+**Leakage audit:** PASS
 
 ---
 
-## 📊 GitHub Stats
+## 📈 AI Stock Intelligence & Market Analysis Platform
 
-![Sujit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msujit908&show_icons=true&hide_border=true)
+An end-to-end financial intelligence platform designed to analyze
+Indian equities using fundamental, technical, quantitative and
+global macroeconomic signals.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msujit908&layout=compact&hide_border=true)
+### Features
 
-## 🤝 Let's Connect
+- NSE & BSE company discovery
+- Market price and historical data
+- Company fundamentals
+- Balance sheet
+- Cash flow
+- Quarterly results
+- Peer comparison
+- Relative valuation
+- Technical indicators
+- 9-pillar financial/risk scoring
+- 100-point company score
+- Global news analysis
+- Macro → sector → stock transmission
+- NLP sentiment analysis
+- Explainable scoring
+- Quantitative factor ranking
+- Walk-forward validation
+- Index screeners
+- FastAPI backend
+- Next.js dashboard
+- PostgreSQL + Redis
+- Docker deployment
 
-* **LinkedIn:** https://linkedin.com/in/sujit-munda-a62724182
-* **GitHub:** https://github.com/msujit908
-* **Email:** [sujit.munda@iitg.ac.in](mailto:sujit.munda@iitg.ac.in)
+### Scoring Framework
 
----
-
-⭐ Feel free to explore my repositories and projects.
+```text
+Financial Quality       20%
+Growth                  15%
+Operating Profitability 15%
+Balance Sheet           15%
+Cash Flow               10%
+Relative Valuation      10%
+Technical Momentum       5%
+News & Macro Sentiment   5%
+Risk Headroom            5%
+                         ----
+                        100%
